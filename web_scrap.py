@@ -1,5 +1,6 @@
 import webbrowser, sys, pyperclip
-
+#! /usr/bin/env python3.
+# ^ shebang line
 webbrowser.open('http://twitter.com/')
 
 # web_scrap.py - Launches a map in the browser using an address from the
